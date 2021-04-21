@@ -1,0 +1,9 @@
+#OS
+.DS_Store
+
+#drawio
+*.drawio.png
+*.drawio
+
+#xmind
+*.xmind
